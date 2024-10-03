@@ -2,9 +2,9 @@
 
 # website settings
 website:
-  title: "Gandalf"                                # Your name
-  description: "Gandalf is a renowned wizard and scholar of Middle-earth"   # A brief slogan (optional)
-  image: img/my_image.jpg
+  title: "PDID"                                # Your name
+  description: ""   # A brief slogan (optional)
+  image: img/my_image.png
   
   favicon: img/favicon.png
   
@@ -67,6 +67,7 @@ format:
     theme: 
       - pulse
       - html/styles.scss
+    page-layout: full
     toc: false
     code-link: true
     anchor-sections: true
