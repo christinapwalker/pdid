@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Project"
 page-layout: full
 toc-location: right
 ---
